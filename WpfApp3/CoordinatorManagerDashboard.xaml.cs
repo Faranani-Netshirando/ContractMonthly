@@ -23,7 +23,7 @@ namespace CMCS
 
             if (claim != null)
             {
-                claim.Status = "Approved"; // Update status
+                claim.Status = "APProved"; // Update status
                 MessageBox.Show($"Claim {claim.ClaimID} approved!");
                 LoadClaims(); // Refresh the ListView
             }

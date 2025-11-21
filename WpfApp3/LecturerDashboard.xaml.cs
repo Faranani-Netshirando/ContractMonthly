@@ -31,7 +31,7 @@ namespace CMCS
 
         private void CheckStatusButton_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Check Claim Status button clicked!");
+            MessageBox.Show("Check Claim Status Button clicked!");
         }
 
         private void BackToMainButton_Click(object sender, RoutedEventArgs e)

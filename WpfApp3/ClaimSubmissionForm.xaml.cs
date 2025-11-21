@@ -35,7 +35,7 @@ namespace CMCS
             {
                 if (string.IsNullOrWhiteSpace(HoursWorkedTextBox.Text) || string.IsNullOrWhiteSpace(HourlyRateTextBox.Text))
                 {
-                    MessageBox.Show("Please enter both hours worked and hourly rate.");
+                    MessageBox.Show("Please enter hours worked and hourly rate.");
                     return;
                 }
 

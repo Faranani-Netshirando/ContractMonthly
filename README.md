@@ -24,5 +24,5 @@ The Contract Monthly Claim System (CMCS) is a WPF application designed to stream
 1. **Clone the Repository:**
 
    ```bash
-https://github.com/D1ABLOTT/WpfApp3.git
+
    

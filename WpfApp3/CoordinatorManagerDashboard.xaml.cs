@@ -24,7 +24,7 @@ namespace CMCS
             if (claim != null)
             {
                 claim.Status = "APProved"; // Update status
-                MessageBox.Show($"Claim {claim.ClaimID} approved!");
+                MessageBox.Show($"Claim {claim.ClaimID} APProved!");
                 LoadClaims(); // Refresh the ListView
             }
         }
